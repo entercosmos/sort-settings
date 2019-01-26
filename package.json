@@ -21,9 +21,9 @@
     "test:watch": "nwb test-react --server"
   },
   "dependencies": {
-    "emotion": "^9.2.12",
+    "emotion": "^10.0.6",
     "react-select": "^2.1.1",
-    "react-sortable-hoc": "^0.8.3"
+    "react-sortable-hoc": "^1.5.3"
   },
   "peerDependencies": {
     "react": "16.x"
